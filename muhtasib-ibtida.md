@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:sk.muhtasibibtida5566@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/muhtasib-ibtida"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/muhtasib-ibtida-kousik//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhtasib-ibtida-kousik"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
 
