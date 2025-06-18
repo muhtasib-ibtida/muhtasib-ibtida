@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E9AA7&height=200&section=header&text=Prottoy%20Saha&fontSize=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E9AA7&height=200&section=header&text=Muhtasib%20Ibtida&fontSize=50&fontColor=ffffff" alt="header"/>
 </p>
 
 <h1 align="center">Hey there! I'm Muhtasib Ibtida Kousik 👋</h1>
